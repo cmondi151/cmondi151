@@ -26,6 +26,11 @@ https://github.com/cmondi151/project_C-Reddit_Posts_Classification
 #### Overview
 Constructed a word-frequency classification model using NLP (Natural Language Processing) techniques in order to identify which subreddit a post originated from; utilizing reddit’s pushshift API to extract multiple independent subreddit feeds, the model successful matched 91% of posts to the correct subreddit.
 
+### 4. One-Day Hackathon Challenge: Kaggle Challenge - Amazon Alexa Reviews
+https://github.com/cmondi151/project_C-Reddit_Posts_Classification
+
+#### Overview
+
 ---
 ##### Additional Notes
 All projects were done using Python via JupyterLab. For additional information regarding individual projects, refer to the README file available in each project repository.
