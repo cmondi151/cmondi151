@@ -7,7 +7,7 @@ Recently I decided to take part in a data science bootcamp to continue building 
 For those interested in my work, provided are a handful of projects I completed while partaking in the course. I hope you enjoy! 
 
 # Projects
-
+---
 ### 1. SAT Participation Rates 
 https://github.com/cmondi151/Project_A-SAT_Participation_Rates
 
