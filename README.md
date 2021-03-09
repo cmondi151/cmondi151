@@ -20,7 +20,7 @@ https://github.com/cmondi151/project_B-Housing_Prices
 #### Overview
 Developed, tested, and enhanced several price prediction regression models against a housing dataset containing 80 features for ~2,000 properties; the top-preforming model generated a well-fit, unbiased model resulting in minimal differences of predicted versus actual sales prices.
 
-### 3. Reddit Post Classification
+### 3. Reddit Posts Classification
 https://github.com/cmondi151/project_C-Reddit_Posts_Classification
 
 #### Overview
