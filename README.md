@@ -15,13 +15,13 @@ https://github.com/cmondi151/Project_A-SAT_Participation_Rates
 Discovered underlying patterns & trends in historical standardized test scores and participation rates at the state-level; given these findings, a data-driven proposal was developed recommending the College Board allocate additional funds to a specific set of low-partaking states in order to increase SAT participation rates.
 
 ### 2. Kaggle Competition - Ames, Iowa Housing Prices
-https://github.com/cmondi151/project_B-Housing_Prices
+https://github.com/cmondi151/Project_B-Housing_Prices
 
 #### Overview
 Developed, tested, and enhanced several price prediction regression models against a housing dataset containing 80 features for ~2,000 properties; the top-preforming model generated a well-fit, unbiased model resulting in minimal differences of predicted versus actual sales prices.
 
 ### 3. Reddit Posts Classification
-https://github.com/cmondi151/project_C-Reddit_Posts_Classification
+https://github.com/cmondi151/Project_C-Reddit_Posts_Classification
 
 #### Overview
 Constructed a word-frequency classification model using NLP (Natural Language Processing) techniques in order to identify which subreddit a post originated from; utilizing reddit’s pushshift API to extract multiple independent subreddit feeds, the model successful matched 91% of posts to the correct subreddit.
