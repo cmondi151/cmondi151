@@ -27,7 +27,7 @@ https://github.com/cmondi151/project_C-Reddit_Posts_Classification
 Constructed a word-frequency classification model using NLP (Natural Language Processing) techniques in order to identify which subreddit a post originated from; utilizing reddit’s pushshift API to extract multiple independent subreddit feeds, the model successful matched 91% of posts to the correct subreddit.
 
 ### 4. Kaggle Competition - Amazon Alexa Reviews
-https://github.com/cmondi151/project_D-Hackathon_Challenge
+https://github.com/cmondi151/Project_D-Amazon_Alexa_Reviews
 
 #### Overview
 For this hackathon challenge students were given a single day to pick a tabular dataset and make a predictive model. Similiar to Project 3 above (Reddit Post Classifications), I decided to do a sentiment analysis for Amazon Alexa reviews (Kaggle Competition). The goal was to predict what rating (score of 1 - 5) an individual gave the Alexa they recently purchased using only the content from their written review.
