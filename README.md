@@ -14,7 +14,7 @@ https://github.com/cmondi151/Project_A-SAT_Participation_Rates
 #### Overview
 Discovered underlying patterns & trends in historical standardized test scores and participation rates at the state-level; given these findings, a data-driven proposal was developed recommending the College Board allocate additional funds to a specific set of low-partaking states in order to increase SAT participation rates.
 
-### 2. Kaggle Challenge – Ames, Iowa Housing Prices
+### 2. Kaggle Competition - Ames, Iowa Housing Prices
 https://github.com/cmondi151/project_B-Housing_Prices
 
 #### Overview
