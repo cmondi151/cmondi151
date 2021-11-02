@@ -1,8 +1,8 @@
 # Introduction
 ---
-Hello - my name is Colin, and I have a passion for data... It has the ability to turn complicated observations, patterns, and behaviors into meaningful insights; this fascinating, groundbreaking capability plays a key role in building a better future for all mankind! In today’s information-rich society, we’re just starting to recognize that data-driven decisions have more predictable & positive outcomes. But as more information becomes available, there will always be an endless improvement regarding how we utilize data.
+Hello - my name is Colin, and I have a passion for data... In today’s information-rich society, many organizations have started practicing data-driven decision-making (DDDM). This practice will have the most transformative impact on a business, resulting in more intelligent and ethical decision-making. My passion for data stems from its ability to turn complicated observations, patterns, and behaviors into meaningful insights; this fascinating, groundbreaking capability plays a key role in building a better future for society as a whole! As more and more information becomes available, there will always be an endless improvement regarding how we utilize data to continuously make the right decisions.
 
-The purpose of this repository is to display a handful of projects I completed while partaking in a 12-week data science bootcamp. I hope you enjoy! 
+The purpose of this repository is to display a handful of projects I completed while participating in a 12-week data science bootcamp. I hope you enjoy! 
 
 # Projects
 ---
