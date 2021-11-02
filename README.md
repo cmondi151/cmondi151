@@ -1,10 +1,8 @@
 # Introduction
 ---
-Hello - my name is Colin, and I have a passion for data... It has the ability to turn complicated observations, patterns, and behaviors into meaningful insights; this fascinating, groundbreaking capability that I believe will lead to a better future! In today’s information-rich society we’re starting to recognize decision-making backed by data-driven outputs can result in more predictable and positive outcomes. But as more information becomes available, endless improvement regarding data utilization is required to continuously make both intelligent and ethical decisions. So we need more data folks like you to make this happen!
+Hello - my name is Colin, and I have a passion for data... It has the ability to turn complicated observations, patterns, and behaviors into meaningful insights; this fascinating, groundbreaking capability plays a key role in building a better future for all mankind! In today’s information-rich society, we’re just starting to recognize that data-driven decisions have more predictable & positive outcomes. But as more information becomes available, there will always be an endless improvement regarding how we utilize data.
 
-Recently I decided to take part in a data science bootcamp to continue building my skillset. One of the primary reasons I enrolled was to continue working towards my long-term career goal, which is to obtain a leadership position where I can apply my expertise to create significant value in dynamic, data-rich environments I have the opportunity to work in. This bootcamp has helped push me closer to that goal and I'd recommend anyone interested in learning more about data science to enroll in a formalized educational program focused on data science.
-
-For those interested in my work, provided are a handful of projects I completed while partaking in the course. I hope you enjoy! 
+The purpose of this repository is to display a handful of projects I completed while partaking in a 12-week data science bootcamp. I hope you enjoy! 
 
 # Projects
 ---
