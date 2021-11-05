@@ -4,7 +4,7 @@ In today’s information-rich society, many organizations have started practicin
 
 My name is Colin and I have a passion for data due to the benefits it can provide us. By that I mean data can help us predict the future and potential outcomes of our decisions. Having this understanding can make the world a better place for all of us, and that's why I pursued a carrer in data.
 
-I've provided a handufl of projects I completed while participating in a 12-week data science bootcamp. I hope this portrays the power of data so please enjoy! 
+I've provided a handful of projects I completed while participating in a 12-week data science bootcamp. I hope this portrays the power of data so please enjoy! 
 
 # Projects
 ---
