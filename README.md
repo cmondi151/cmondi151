@@ -4,7 +4,7 @@ In today’s information-rich society, many organizations have started practicin
 
 My name is Colin and my passion in data science stems from impact on problem solving; predictive analytics helps us 1) make intelligent decisions and 2) better understand the potential outcomes of our decisions. These two capabilities alone can play a significant role in our efforts to help restore and sustain this world providing safety and longevity for humanity.
 
-I've provided a handful of projects I completed while participating in a 12-week data science bootcamp. My models don’t provide the solution for clean energy or world hunger, but they do provide a glimpse of machine learning capabilities! I hope you enjoy 
+I've provided a handful of projects I completed while participating in a 12-week data science bootcamp. My models don’t provide the solution for clean energy or world hunger, but they do provide a glimpse of machine learning capabilities! I hope you enjoy :)
 
 # Projects
 ---
@@ -37,4 +37,3 @@ Given the short amount of time to complete this, there's a limited amount of cle
 ---
 ##### Additional Notes
 All projects were done using Python via JupyterLab. For additional information regarding individual projects, refer to the README file available in each project repository.
-![image](https://user-images.githubusercontent.com/74880957/194424594-3c8113e7-cb9a-4446-a278-533a8923d3bb.png)
